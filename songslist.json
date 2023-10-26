@@ -1,0 +1,283 @@
+{
+  "songs": [
+    {
+      "bg": "#c9bea28f",
+      "artist": "Satinder Sartaaj",
+      "songName": "Matwaliye - Seven Rivers",
+      "files": {
+        "song": "https://pixeldrain.com/api/file/4bwCZm8J",
+        "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/1/img.jpg"
+      }
+    },
+    {
+      "bg": "#c9bea28f",
+      "artist": "Millind Gaba",
+      "songName": "Mein Teri Ho Gayi",
+      "files": {
+        "song": "https://pixeldrain.com/api/file/A5Tcpgyv",
+        "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/2/img.jpg"
+      }
+    },
+    {
+      "bg": "#c9bea28f",
+      "artist": "Jugraj Sandhu",
+      "songName": "Mere Wala Sardar",
+      "files": {
+        "song": "https://pixeldrain.com/api/file/crrRprhp",
+        "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/3/img.jpg"
+      }
+    },
+    {
+      "bg": "#c9bea28f",
+      "artist": "Camila Cabello, DaBaby",
+      "songName": "My Oh My (feat. DaBaby)",
+      "files": {
+        "song": "https://pixeldrain.com/api/file/TZjN8jEP",
+        "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/4/img.jpg"
+      }
+    },
+    {
+      "bg": "#c9bea28f",
+      "artist": "Diljit Dosanjh",
+      "songName": "Peed",
+      "files": {
+        "song": "https://pixeldrain.com/api/file/dMkePkK5",
+        "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/5/img.jpg"
+      }
+    },
+    {
+      "bg": "#c9bea28f",
+      "artist": "Jass Manak",
+      "songName": "Prada",
+      "files": {
+        "song": "https://pixeldrain.com/api/file/JprkVHQK",
+        "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/6/img.jpg"
+      }
+    },
+    {
+      "bg": "#c9bea28f",
+      "artist": "Harrdy Sandhu",
+      "songName": "Psycho",
+      "files": {
+        "song": "https://pixeldrain.com/api/file/wHBuEPAu",
+        "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/7/img.jpg"
+      }
+    },
+    {
+      "bg": "#c9bea28f",
+      "artist": "Gurnam Bhullar",
+      "songName": "Roka",
+      "files": {
+        "song": "https://pixeldrain.com/api/file/jU4qu17d",
+        "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/8/img.jpg"
+      }
+    },
+    {
+      "bg": "#c9bea28f",
+      "artist": "Ayushmann Khurrana, Neeti Mohan",
+      "songName": "Saadi Galli Aaja (From Nautanki Saala!)",
+      "files": {
+        "song": "https://pixeldrain.com/api/file/iSWgfqph",
+        "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/9/img.jpg"
+      }
+    },
+    {
+      "bg": "#c9bea28f",
+      "artist": "Tegi Pannu, Manni Sandhu",
+      "songName": "Schedule",
+      "files": {
+        "song": "https://pixeldrain.com/api/file/X9YRgTBK",
+        "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/10/img.jpg"
+      }
+    },
+    {
+      "bg": "#c9bea28f",
+      "artist": "Harrdy Sandhu, B Praak, Jaani",
+      "songName": "Soch",
+      "files": {
+        "song": "https://pixeldrain.com/api/file/27fv9j74",
+        "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/11/img.jpg"
+      }
+    },
+    {
+      "bg": "#c9bea28f",
+      "artist": "Miss Pooja, Millind Gaba",
+      "songName": "Sohnea 2",
+      "files": {
+        "song": "https://pixeldrain.com/api/file/cqixdQMo",
+        "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/12/img.jpg"
+      }
+    },
+    {
+      "bg": "#c9bea28f",
+      "artist": "Guru Randhawa, Arjun",
+      "songName": "Suit Suit",
+      "files": {
+        "song": "https://pixeldrain.com/api/file/sHJs2nr2",
+        "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/13/img.jpg"
+      }
+    },
+    {
+      "bg": "#c9bea28f",
+      "artist": "Jassie Gill, Snappy",
+      "songName": "Surma Kaala",
+      "files": {
+        "song": "https://pixeldrain.com/api/file/77YZQYHq",
+        "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/14/img.jpg"
+      }
+    },
+    {
+      "bg": "#c9bea28f",
+      "artist": "Tegi Pannu, Sukha, Manni Sandhu",
+      "songName": "TERE BINA",
+      "files": {
+        "song": "https://pixeldrain.com/api/file/L9nmveEv",
+        "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/15/img.jpg"
+      }
+    },
+    {
+      "bg": "#c9bea28f",
+      "artist": "Diljit Dosanjh, Intense, Chani Nattan",
+      "songName": "Umbrella",
+      "files": {
+        "song": "https://pixeldrain.com/api/file/y87dXV9g",
+        "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/16/img.jpg"
+      }
+    },
+    {
+      "bg": "#c9bea28f",
+      "artist": "Harbhajan Mann",
+      "songName": "Vichora",
+      "files": {
+        "song": "https://pixeldrain.com/api/file/3CozAbv2",
+        "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/17/img.jpg"
+      }
+    },
+    {
+      "bg": "#c9bea28f",
+      "artist": "Ammy Virk, Sonam Bajwa",
+      "songName": "Wang Da Naap",
+      "files": {
+        "song": "https://pixeldrain.com/api/file/gFb84Zq9",
+        "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/18/img.jpg"
+      }
+    },
+    {
+      "bg": "#c9bea28f",
+      "artist": "Garry Sandhu",
+      "songName": "Yeh Baby",
+      "files": {
+        "song": "https://pixeldrain.com/api/file/brvoSrBx",
+        "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/19/img.jpg"
+      }
+    },
+    {
+      "bg": "#c9bea28f",
+      "artist": "Guru Randhawa",
+      "songName": "Ban Ja Rani",
+      "files": {
+        "song": "https://pixeldrain.com/api/file/QfUY9aV6",
+        "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/20/img.jpg"
+      }
+    },
+    {
+      "bg": "#c9bea28f",
+      "artist": "Mankirt Aulakh",
+      "songName": "Begum",
+      "files": {
+        "song": "https://pixeldrain.com/api/file/SeyP7Xxi",
+        "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/21/img.jpg"
+      }
+    },
+    {
+      "bg": "#c9bea28f",
+      "artist": "Yo Yo Honey Singh",
+      "songName": "Blue Eyes",
+      "files": {
+        "song": "https://pixeldrain.com/api/file/gGTebbN4",
+        "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/22/img.jpg"
+      }
+    },
+    {
+      "bg": "#c9bea28f",
+      "artist": "Cheema Y, Gur Sidhu",
+      "songName": "California Love",
+      "files": {
+        "song": "https://pixeldrain.com/api/file/JvAJGuLY",
+        "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/23/img.jpg"
+      }
+    },
+    {
+      "bg": "#c9bea28f",
+      "artist": "Aditya A",
+      "songName": "Chaand Baaliyan",
+      "files": {
+        "song": "https://pixeldrain.com/api/file/zhsL6gih",
+        "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/24/img.jpg"
+      }
+    },
+    {
+      "bg": "#c9bea28f",
+      "artist": "Parmish Verma, Paradox",
+      "songName": "Check It Out",
+      "files": {
+        "song": "https://pixeldrain.com/api/file/nrdXLasa",
+        "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/25/img.jpg"
+      }
+    },
+    {
+      "bg": "#c9bea28f",
+      "artist": "Laddi Chahal, Gurlez Akhtar",
+      "songName": "Farming",
+      "files": {
+        "song": "https://pixeldrain.com/api/file/w4QzAsPL",
+        "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/26/img.jpg"
+      }
+    },
+    {
+      "bg": "#c9bea28f",
+      "artist": "Jassie Gill",
+      "songName": "Guitar Sikhda",
+      "files": {
+        "song": "https://pixeldrain.com/api/file/2uWdkNU3",
+        "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/27/img.jpg"
+      }
+    },
+    {
+      "bg": "#c9bea28f",
+      "artist": "Camila Cabello, Young Thug",
+      "songName": "Havana (feat. Young Thug)",
+      "files": {
+        "song": "https://pixeldrain.com/api/file/DUJLGx2R",
+        "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/28/img.jpg"
+      }
+    },
+    {
+      "bg": "#c9bea28f",
+      "artist": "Chris Webby",
+      "songName": "Inappropriate (Freeverse)",
+      "files": {
+        "song": "https://pixeldrain.com/api/file/HJXoQhdn",
+        "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/29/img.jpg"
+      }
+    },
+    {
+      "bg": "#c9bea28f",
+      "artist": "B Praak",
+      "songName": "Jannat",
+      "files": {
+        "song": "https://pixeldrain.com/api/file/BKG7ZymY",
+        "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/30/img.jpg"
+      }
+    },
+    {
+      "bg": "#c9bea28f",
+      "artist": "Akhil",
+      "songName": "Khaab",
+      "files": {
+        "song": "https://pixeldrain.com/api/file/ssUnPgiV",
+        "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/31/img.jpg"
+      }
+    }
+ ]
+}
